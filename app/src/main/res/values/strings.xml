@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Fourth Quiz App</string>
+    <string name="where_are_you">Where are you?</string>
+    <string name="topic1">Alcântara</string>
+    <string name="topic2">Alfama</string>
+    <string name="topic3">Avenidas Novas</string>
+    <string name="topic4">Bairro Alto</string>
+    <string name="topic5">Baixa Pombalina</string>
+    <string name="topic6">Belém</string>
+    <string name="topic7">Cais do Sodré</string>
+    <string name="topic8">Cascais</string>
+    <string name="topic9">Graça</string>
+    <string name="topic10">Monsanto</string>
+    <string name="topic11">Parque das Nações</string>
+    <string name="topic12">Sintra</string>
+    <string name="topic1_quiz">Alcântara Quiz</string>
+    <string name="image">image</string>
+    <string name="congratulations">Congratulations </string>
+    <string name="username">Username</string>
+    <string name="topic1_tip_header">Here is a little tip for you:</string>
+    <string name="topic1_tip">Walk by the river during sunset to catch the most amazing views!</string>
+    <string name="finish">FINISH</string>
+    <string name="back_home">Back Home</string>
+    <string name="play_quiz">Play Quiz</string>
+    <string name="high_scores">High Scores</string>
+    <string name="next_tip">Next Tip</string>
+    <string name="back_icon"><![CDATA[<]]></string>
+    <string name="high_score_topic">High score: 0/10</string>
+    <string name="_0_10">0/10</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
